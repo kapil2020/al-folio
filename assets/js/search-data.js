@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-our-research-driven-routing-app-was-recently-featured-in-the-hindu-june-8-2025-the-article-highlights-how-our-tool-helps-commuters-make-greener-travel-choices-by-considering-real-time-pollution-and-traffic-data-this-marks-a-proud-moment-in-our-journey-toward-sustainable-urban-mobility-️",
+          title: '📢 Excited to share that our research-driven routing app was recently featured in...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
