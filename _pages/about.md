@@ -1,38 +1,56 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>About me:</a> Researcher. Analyst. Problem-solver.
 
 profile:
   align: right
   image: kp_1.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>Ranbir and Chitra School of Infrastructure Design and Management</p>
-    <p>Indian Institute of Technology (IIT) Kharagpur</p>
-    <p>Kharagpur, West Bengal - 721302</p>
+    <p><a href="https://www.mustlab.in/" target="_blank">MUST Lab</a></p>
+    <p><a href="https://www.iitkgp.ac.in/" target="_blank">Indian Institute of Technology (IIT) Kharagpur</a></p>
+    <p>Kharagpur, West Bengal - 721302, India</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I am **Kapil Meena**, a PhD scholar at the Ranbir and Chitra Gupta School of Infrastructure Design and Management, **Indian Institute of Technology Kharagpur**, India. My research focuses on the intersection of **travel behaviour**, **air quality**, and **sustainable urban mobility**.
+I am a PhD scholar at the [**Indian Institute of Technology Kharagpur**](https://www.iitkgp.ac.in/), affiliated with the [**MUST Lab**](https://www.mustlab.in/), where we work on building data-driven solutions for sustainable urban mobility.
 
-I hold a Master of Technology in Transportation Engineering from **IIT Roorkee**, and a Bachelor of Technology in Civil Engineering from **Rajasthan Technical University**. Over the years, I have contributed to numerous projects and publications that examine how environmental awareness shapes mobility patterns in urban India.
+I hold a Master’s (MTech) degree from [**IIT Roorkee**](https://www.iitr.ac.in/), and my academic journey lies at the intersection of **transportation systems**, **urban livability**, and **environmental sustainability**.
 
-My academic journey is also enriched by collaborative projects with organizations like the **World Resources Institute (WRI), India**, and hands-on experience with tools such as Python, R, Tableau, QGIS, and SPSS. I actively contribute as a reviewer to Q1 journals and serve in conference organizing roles, including the **Annual Conference on Infrastructure and Built Environment (IBSR)**.
+My research primarily investigates:
+- **Urban air quality and human exposure to pollution**
+- **Road transport emissions modeling**
+- **Activity-travel behavior** and its environmental impact
+- **Gender differences in travel behavior and health outcomes**
 
-I am passionate about developing data-driven solutions for sustainable transport and equitable exposure mitigation.
+At MUST Lab, we aim to develop transport infrastructure professionals equipped to tackle emerging challenges at the nexus of transport, health, and environment.
 
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/kapilmeena/) or [email](mailto:kapil.meena@kgpian.iitkgp.ac.in).
+In addition, I actively apply **machine learning** and **data analytics** in transportation to promote informed policy and sustainable mobility solutions.
+
+---
+
+### 🔬 Research Interests
+- Machine Learning in Transportation  
+- Urban Air Quality & Public Health  
+- Travel Behavior Analysis  
+- Sustainable & Active Travel Modes  
+- Transport Emissions and Exposure Modeling  
+- Gender Equity in Urban Mobility  
+
+---
+
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kapilmeena/) or reach out via [email](mailto:kapil.meena@kgpian.iitkgp.ac.in).
