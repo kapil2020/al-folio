@@ -8,33 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-### 📑 Journal Articles
 
-- **Singh A.K., Meena, K.K., Goswami, A.K.** (2025). Dynamic route planning for urban green mobility. *Transportation Research Record*, [doi:10.1177/03611981251331011](https://doi.org/10.1177/03611981251331011).
-
-- **Meena, K.K., Taneja, R., Agarwal, A.** (2024). Impact of air pollution on informed decision-making for travel mode choice. *COMSNETS 2024*, IEEE, [doi:10.1109/comsnets59351.2024.10427003](https://doi.org/10.1109/comsnets59351.2024.10427003).
-
-- **Meena, K.K., Bairwa, D., Agarwal, A.** (2024). Influence of air quality awareness on travel behavior using machine learning. *Decision Analytics Journal*, [doi:10.1016/j.dajour.2024.100459](https://doi.org/10.1016/j.dajour.2024.100459).
-
-- **Meena, K.K., Goswami, A.K.** (2024). A review of air pollution exposure impacts on travel behaviour. *Transport Policy*, [doi:10.1016/j.tranpol.2024.05.024](https://doi.org/10.1016/j.tranpol.2024.05.024).
-
-- **Meena, K.K., Singh, V., Agarwal, A.** (2023). Perception of commuters towards air quality in Delhi. *Journal of Transport & Health*, [doi:10.1016/j.jth.2023.101643](https://doi.org/10.1016/j.jth.2023.101643).
-
-- **Singh, V., Meena, K.K., Agarwal, A.** (2021). Travellers' exposure to air pollution: A systematic review. *Urban Climate*, [doi:10.1016/j.uclim.2021.100901](https://doi.org/10.1016/j.uclim.2021.100901).
-
----
-
-### 🎤 Conference Papers
-
-- Meena, K.K., Manoj B.S., Goswami, A.K. (2024). Willingness to bicycle for first-mile access in Mumbai. *IATBR 2024*, Vienna.
-
-- Meena, K.K., Singh A.K., Goswami, A.K. (2023). DRUM: A dynamic route planner for sustainable commuting. *CTRG 2023*, India.
-
-- Meena, K.K., Goswami, A.K. (2023). Impact of air pollution exposure on travel behaviour. *WCTR 2023*.
-
-- Meena, K.K., Kumari, R., Goswami, A.K. (2022). On-road exposure in Indian tier-2 & tier-3 cities. *CTRG 2022*.
-
-- Meena, K.K., Agarwal, A. (2021). Commuter perception of air quality in Delhi. *CTRG 2021*.
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
