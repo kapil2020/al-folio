@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kapil2020
+ 
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - kapil2020/india-air-quality-dashboard
+  - kapil2020/react-frontend-kgp
+  - kapil2020/DRUM-v1-IITKGP
+  #- kapil2020/no-code-dynamic-survey
+  - kapil2020/3D-visuals
+  - kapil2020/INDAQ
