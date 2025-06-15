@@ -9,9 +9,9 @@ profile:
   image: kp_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ranbir and Chitra School of Infrastructure Design and Management</p>
+    <p>Indian Institute of Technology (IIT) Kharagpur</p>
+    <p>Kharagpur, West Bengal - 721302</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
